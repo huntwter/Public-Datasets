@@ -1011,7 +1011,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📜 License
 
-This project is [MIT](LICENSE) licensed.
+This project is [Creative Commons Attribution 4.0](LICENSE) licensed.
 
 ## 👤 Author
 
