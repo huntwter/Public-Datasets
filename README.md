@@ -1016,8 +1016,8 @@ This project is [Creative Commons Attribution 4.0](LICENSE) licensed.
 ## 👤 Author
 
 * **Your Name**
-* Github: [@YourUsername](https://github.com/Huntwter)
-* LinkedIn: [@YourProfile](https://linkedin.com/in/Huntwter)
+* Github: [Huntwter](https://github.com/Huntwter)
+* LinkedIn: [Huntwter](https://linkedin.com/in/Huntwter)
 
 ---
 _This README was generated with ❤️ by [Jatin Sharma]_
